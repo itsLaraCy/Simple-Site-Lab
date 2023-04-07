@@ -1,4 +1,5 @@
-# Simple-Site-Lab
-### Class 4 of 100 Dev.
-### A simple website created with HTML+ CSS
+🌟This is a sample of a Simple-Site-Lab page(Class 4 of 100Dev) 🌟
+🎖️Demonstrated Skills:
+•HTML 💻
+•CSS 🎨
 ### https://itslaracy.github.io/Simple-Site-Lab/
