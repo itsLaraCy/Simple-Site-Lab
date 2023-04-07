@@ -1,4 +1,4 @@
-🌟This is a sample of a Simple-Site-Lab page(Class 4 of 100Dev) 🌟
+🌟This is a Simple-Site-Lab page(Class 4 of 100Dev) 🌟
 🎖️Demonstrated Skills:
 •HTML 💻
 •CSS 🎨
